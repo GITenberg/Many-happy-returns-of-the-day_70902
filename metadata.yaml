@@ -1,5 +1,8 @@
 _repo: Many-happy-returns-of-the-day_70902
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70902-h/images/cover.jpg
 creator:
   author:
     agent_name: Butler, Ellis Parker
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/585
     wikipedia: https://en.wikipedia.org/wiki/Ellis_Parker_Butler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70902#Many-happy-returns-of-the-day
 gutenberg_issued: '2023-06-03'
 identifiers:
   gutenberg: '70902'
